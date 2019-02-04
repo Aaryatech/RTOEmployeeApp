@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RTO Employee</string>
+
+    <string name="photo_1"><u>Photo 1</u></string>
+    <string name="photo_2"><u>Photo 2</u></string>
+    <string name="aadhar_card"><u>Aadhar Card</u></string>
+    <string name="rc_book"><u>RC Book</u></string>
+    <string name="insurance_1"><u>Insurance 1</u></string>
+    <string name="insurance_2"><u>Insurance 2</u></string>
+    <string name="puc"><u>PUC</u></string>
+    <string name="bank_letter"><u>Bank Letter</u></string>
+    <string name="form_17"><u>Form 17</u></string>
+    <string name="bank_noc"><u>Bank NOC</u></string>
+    <string name="address_proof"><u>Address Proof</u></string>
+    <string name="original_license"><u>Original license</u></string>
+
+</resources>
